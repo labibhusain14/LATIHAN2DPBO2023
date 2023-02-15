@@ -4,7 +4,12 @@ Mohamad Labib Husain
 /*Saya Mohammad Labib Husain mengerjakan Latihan 2 dalam mata kuliah Desain Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.*/
 
 
-LATIHAN 1b File tugas untuh latihan 1 bagian a terdapat pada folder 'latihan1_a' yang isinya ialah file php untuk program mengebai daftar mahasiswa. Nama screenshoot hasil : 1a_php
+LATIHAN2DPBO2023 File tugas untuh latihan 2 pada folder Java yang isinya ialah file java untuk program Multi-level Inheritance,dengan ketentuan-ketentuan atribut sebagai berikut:
+  -Mahasiswa: NIM, nama, jenis_kelamin, fakultas, prodi
+  -Human: NIK, nama, jenis_kelamin
+  -SivitasAkademik: asal_universitas, email_edu
+
+ Nama file untuk screenshoot hasil : hasil
 
 LATIHAN 1b Programnya mengenai Daftar Tim Sepakbola. Algoritma : Program meminta masukan untuk data tim dan nama pemain dalam tim.
 
