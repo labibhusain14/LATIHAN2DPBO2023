@@ -1,8 +1,8 @@
 # LATIHAN2DPBO2023
 Mohamad Labib Husain
 
-/*Saya Mohammad Labib Husain mengerjakan Latihan 2 dalam mata kuliah Desain Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.*/
-
+## *Janji*
+*Saya Mohammad Labib Husain dengan NIM 2101989 mengerjakan Latihan 2 dalam mata kuliah Desain Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.*
 
 LATIHAN2DPBO2023 File tugas untuh latihan 2 pada folder Java yang isinya ialah file java untuk program Multi-level Inheritance,dengan ketentuan-ketentuan atribut sebagai berikut:
   -Mahasiswa: NIM, nama, jenis_kelamin, fakultas, prodi
