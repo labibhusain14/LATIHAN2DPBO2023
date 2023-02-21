@@ -2,9 +2,9 @@
 
 ## *Tugas*
 Buatlah program berbasis OOP menggunakan bahasa pemrograman C++, Java, Python, dan PHP yang mengimplementasikan konsep Multi-level Inheritance  pada kelas - kelas tersebut:
-Mahasiswa: NIM, nama, jenis_kelamin, fakultas, prodi
-Human: NIK, nama, jenis_kelamin
-SivitasAkademik: asal_universitas, email_edu
+* Mahasiswa: NIM, nama, jenis_kelamin, fakultas, prodi
+* Human: NIK, nama, jenis_kelamin
+* SivitasAkademik: asal_universitas, email_edu
 
 ## *Janji*
 *Saya Mohammad Labib Husain dengan NIM 2101989 mengerjakan Latihan 2 dalam mata kuliah Desain Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.*
