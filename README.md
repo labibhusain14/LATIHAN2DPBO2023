@@ -21,14 +21,15 @@
        
       Memiliki 3 atribut yaitu nim,prodi dan fakultas.Kelas Mahasiswa juga merupakan turunan dari kelas Sivitas_Akademik,karena kelas Mahasiswa ini memiliki kebutuhan atrubut yang sama pada kelas Sivitas_Akademik.
       
+      ![Screenshot_20230221_135829](https://user-images.githubusercontent.com/119772365/220270722-9cca7731-924d-4a6a-9587-63df79977cc2.png)
+
 Selain beberapa kelas diatas,program pada bahasa python dan c++ itu juga menambahkan kelas tabel.Kelas tabel digunakan untuk membuat tabel pada tampilan keluaran / output.
+
 
 ## *Alur*
 Pada bahasa python dan C++,program akan menampilkan beberapa pilihan menu pilihan yang akan user gunakan.Kemudian user akan diminta untuk mengisi beberapa inputan yang nantinya nilai tersebut akan disimpan untuk setiap atribut pada kelas mahasiswa.
 
 Untuk program pada bahasa php dan java tidak menerima inputan,jadi untuk datanya manual dari kode saja / hardcode. 
-
-![C++_Add](https://user-images.githubusercontent.com/119772365/220264729-a8774395-9519-45e3-ba5e-95ae852f5311.png)
 
 ## *Dokementasi*
 
